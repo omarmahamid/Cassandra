@@ -1,2 +1,2 @@
 # Cassandra
-using cassandra as a Data Base
+using cassandra as a DataBase
